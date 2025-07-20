@@ -1,0 +1,7 @@
+TextColor=B5C7EB
+BackgroundColor=1a1a1a
+AccentColor=B5C7EB
+BorderColor=B5C7EB
+HeaderBackground=2a2a2a
+ButtonBackground=2a2a2a
+HoverColor=3a3a3a

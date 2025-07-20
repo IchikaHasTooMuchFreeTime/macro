@@ -1,0 +1,4 @@
+StartHotkey=F1
+PauseHotkey=F2
+StopHotkey=F3
+SaveImageHotkey=F4
